@@ -19,9 +19,9 @@ def plusMinus(arr):
     zero = 0
     
     for element in arr:
-        if (element>0) and (element<100):
+        if (element>0) and (element<=100):
             positive +=1
-        elif (element < 0) and (element> -100):
+        elif (element < 0) and (element>= -100):
             negative +=1
         elif (element == 0):
             zero+=1
