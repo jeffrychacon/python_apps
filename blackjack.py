@@ -1,10 +1,7 @@
 import random
 cards = [11,2,3,4,5,6,7,8,9,10,10,10,10]
 def scores(hand):
-    score = 0
-    for el in hand:
-        score += el
-    return score
+    return sum(hand)
 
 def ace_replacement(any_hand):
     which_ace = any_hand.index(11)
