@@ -1,0 +1,12 @@
+total 80
+-rw-r--r--@ 1 jchacon  staff   375B Mar 25 00:59 interview1.py
+-rw-r--r--@ 1 jchacon  staff   994B Mar 25 12:15 output_file.txt
+-rw-r--r--@ 1 jchacon  staff   1.2K Mar 25 13:11 mac.py
+-rw-r--r--@ 1 jchacon  staff   504B Mar 25 14:10 exercise2.py
+-rw-r--r--@ 1 jchacon  staff   230B Mar 25 14:16 exercise3.py
+-rw-r--r--@ 1 jchacon  staff   852B Mar 25 14:39 output.txt
+-rw-r--r--@ 1 jchacon  staff   174B Mar 25 14:48 regex.py
+-rw-r--r--@ 1 jchacon  staff   167B Mar 25 14:55 regex3.py
+-rw-r--r--@ 1 jchacon  staff     0B Mar 25 15:02 example2.py
+-rw-r--r--@ 1 jchacon  staff   274B Mar 25 15:14 example1.py
+-rw-r--r--@ 1 jchacon  staff   674B Mar 25 15:15 file.txt
