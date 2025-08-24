@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jeffry_chacon"
+version = "0.1.0"
+description = "My first package!"
+authors = [
+    { name = "Jeffry Chacon", email = "jeffry.chacon@outlook.com" }
+]
+[project.scripts]
+print_me = "jeffry_chacon.__main__:main"
